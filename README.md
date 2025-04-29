@@ -1,4 +1,4 @@
-# Hackathon-3
+# Comparision-of-Machine-Learning-Models
 
 Group Presentation Video - https://drive.google.com/file/d/1RVGIsbqc0ySXUD3HS7_wfEc1LVJF1d3T/view?usp=sharing
 
